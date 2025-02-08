@@ -1,6 +1,6 @@
 
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20To%20 Hams%20Tamer's%20profile;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75be9ff&vCenter=true&size=25"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76CDD&width=435&lines=Welcome+to+Hams+Tamer's+Profile!;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p> 
 
 - 👩‍💻 I'm a junior Front-end developer
