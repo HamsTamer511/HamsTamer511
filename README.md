@@ -7,7 +7,7 @@
 - 💯 As an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🚀 with a passion for building scalable web applications, contributing to open-source projects.
 - 👩‍💻 I love working with Html, Css, JavaScript, BootStrap.
-- 🌱 I’m currently learning Technologies and tools of creating web pages with React.js & Next.js, I'm always exploring new technologies and improving my skills.
+- 🌱 I’m currently learning Technologies and tools of creating web pages with React.js & Next.js.
 - ⚡ Fun fact:  my perfect day would start and end with a cup of milk tea.
 
 ## Connect with Me :
