@@ -1,4 +1,3 @@
-
   <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76CDD&width=435&lines=Welcome+to+Hams+Tamer's+Profile!;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p> 
@@ -10,7 +9,7 @@
 - 🌱 I’m currently learning Technologies and tools of creating web pages with React.js & Next.js.
 - ⚡ Fun fact:  my perfect day would start and end with a cup of milk tea.
 
-## Connect with Me :
+##  🌐 Connect with Me :
 [LinkedIn](https://www.linkedin.com/in/hams-tamer-a19a3b241)
 [Email](hamstamer21@gmail.com)
 
