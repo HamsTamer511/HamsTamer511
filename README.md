@@ -1,5 +1,5 @@
 
-<h3 align="center">
+<h3 align="center" style:"color: pink">
   Welcome to Hams Tamer's profile! 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
