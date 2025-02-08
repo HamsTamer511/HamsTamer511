@@ -10,8 +10,8 @@
 - ⚡ Fun fact:  my perfect day would start and end with a cup of milk tea.
 
 ##  🌐 Connect with Me :
-[LinkedIn](https://www.linkedin.com/in/hams-tamer-a19a3b241)
-[Email](hamstamer21@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hams-tamer-a19a3b241) 
+[Telegram](https:T.me/hamsstamer)
 
 I'm always open to collaborating on interesting projects or just chatting about tech. Feel free to reach out!
 
